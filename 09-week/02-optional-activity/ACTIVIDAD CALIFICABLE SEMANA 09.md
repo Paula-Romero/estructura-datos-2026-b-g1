@@ -4,8 +4,7 @@
 
 | | |
 |---|---|
-| **Estudiante** | `FULL_NAME` |
-| **Usuario GitHub** | `GITHUB_USER` |
+| **Estudiante** | `Paula Romero` |
 | **Herramientas** | Python 3, pandas, SQLite |
 
 ## Índice
